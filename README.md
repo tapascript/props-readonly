@@ -1,14 +1,11 @@
-# React + Vite + TailWindCSS - A Template Repo
+# Props ReadOnly
 
-It is a template repository for you to start a project using React and TailwindCSS. You just need to create a new repository from this template repo by clicking the button at the top right corner of this page.
+This repository contains the source code for the video tutorial:
 
-## Watch This Video
+> [Why Props Are ReadOnly in React? Learn With Patterns](https://youtu.be/hMeay764V-Q)
 
-https://www.youtube.com/watch?v=Zk2YJUvfsOA
+Like my teaching? Don't forget to Subscribe to my channels:
 
-## Links
+1. [tapaScript by Tapas Adhikary](https://youtube.com/tapasadhikary)
+2. [tapaScript বাংলা](https://www.youtube.com/@tapascript-bangla)
 
-- Install Node.js: https://nodejs.org/en
-- Install Vite: https://vitejs.dev/
-- TailwindCSS: https://tailwindcss.com/
-- How to Learn TailwindCSS?: https://www.youtube.com/shorts/BhasK2BPn8c
